@@ -5,7 +5,7 @@ To avoid leftpad-type dependencies, I almost always create a Util.js class with 
 ```javascript
 module.exports = class Util {
 
-  static wait(delay) {
+  static async wait(delay) {
     return new Promise(resolve => setTimeout(resolve, delay));
   }
 
