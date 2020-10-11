@@ -18,4 +18,4 @@ if( country === 'AU' )
 
 Because these things _will_ happen so you'd better be prepared.
 
-Don't lock yourself up in a prison of abstraction. Just keep it simple (TODO: snippet).
+Don't lock yourself up in a prison of abstraction. Just [keep it simple](keep-it-simple.md).
