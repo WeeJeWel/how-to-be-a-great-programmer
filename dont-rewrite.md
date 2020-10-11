@@ -4,7 +4,7 @@ I've seen many programmers rewrite a piece of code because they didn't understan
 
 Writing code is easier than reading code, because when you write code, you _must_ have this abstract model in your mind where you can debug the code in your head. When you're reading code, however, it takes a long time to get to that same mental model. It's therefore easier to 'learn by doing' than 'learn by reading'.
 
-So they start to rewrite the code to understand it, but they tell themselves they're making it better. But as is often with programming, the first 90% is easy and then your abstraction becomes your own prison (TODO: snippet).
+So they start to rewrite the code to understand it, but they tell themselves they're making it better. But as is often with programming, the first 90% is easy and then your abstraction [becomes your own prison](the-abstraction-prison.md).
 
 But you don't know yet where your new abstraction will bite you. And the previous programmer does, becuse he's been there. So now you've _changed_ code but didn't make it _better_. Now, _you_ think it's better, but that's because only _now_ you understand the problem, and it took you writing code to get there!
 
