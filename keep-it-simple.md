@@ -24,4 +24,4 @@ The _only_ difference between a medior and senior is that seniors know when to w
 
 And don't forget, simple is not easy. It's darn hard.
 
-_N.B. I never use KISS because I don't know whether it means 'Keep It Simple, Stupid' or 'Keep It Stupid Simple'. 'Keep it simple' is much more simple imo._
+_N.B. I never use KISS because I never know whether it means 'Keep It Simple, Stupid' or 'Keep It Stupid Simple'. 'Keep it simple' is much more simple imo._
