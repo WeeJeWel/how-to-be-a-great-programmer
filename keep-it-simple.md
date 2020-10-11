@@ -23,3 +23,5 @@ Seniors impress others by writing such simple code that everyone thinks _"Duh, w
 The _only_ difference between a medior and senior is that seniors know when to write simple code (almost always) and when to write hard code (when optimizing for billions of customers on a single Pentium 4 with a dial-up connection).
 
 And don't forget, simple is not easy. It's darn hard.
+
+_N.B. I never use KISS because I don't know whether it means 'Keep It Simple, Stupid' or 'Keep It Stupid Simple'. 'Keep it simple' is much more simple imo._
