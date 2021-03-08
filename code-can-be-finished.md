@@ -7,4 +7,4 @@
   
 When searching a project, I always pick the latter ones. They're battle tested and I trust the author that he isn't going to break stuff by adding nonsense methods for a small minority _because he [didn't dare say no](https://github.com/WeeJeWel/how-to-be-a-great-programmer/blob/main/say-no.md)_.
 
-Repositories with a working solution for a clear goal that haven't had commits in years aren't _dead_. They're _done_. And I'd trust them with my life.
+Repositories with a working solution for a clear goal that haven't had commits in years aren't _dead_. They're _finished_. And I'd trust them more than anything.
