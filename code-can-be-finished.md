@@ -1,4 +1,4 @@
-# Code can be done
+# Code can be finished
 
 * Many open source projects don't get any traction and die.
 * Some open source projects get traction and get used a lot.
