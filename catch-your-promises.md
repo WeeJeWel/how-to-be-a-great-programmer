@@ -66,6 +66,6 @@ In almost all situations, there are two types of promise chains.
 
 This is the easiest one to code for. Simply make the upper-most method async, attach a catch-handler (e.g. return HTTP 5XX and send the error as JSON) and `await` all your code while going down.
 
-**The secondis a Promise chain started externally.**  For example through an event emitter, or a parallel track in your code that's considered _nice to have_ (for example, send a message to Slack when running a cronjob).
+**The second is a Promise chain started externally.**  For example through an event emitter, or a parallel track in your code that's considered _nice to have_ (for example, send a message to Slack when running a cronjob).
 
 In this case, think about what the Promise rejection should do (almost always: log to the console), and then code it _in a new Promise chain_ by using the `Promise.resolve().then(async () => { ... }).catch(err => { ... })` pattern.
